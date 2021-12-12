@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test - Cave battle DnD
+* source:	https://sketchfab.com/3d-models/test-cave-battle-dnd-79089800cc2e462092bc01542eb4c583
+* author:	tristan.jaudeau (https://sketchfab.com/tristan.jaudeau)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test - Cave battle DnD" (https://sketchfab.com/3d-models/test-cave-battle-dnd-79089800cc2e462092bc01542eb4c583) by tristan.jaudeau (https://sketchfab.com/tristan.jaudeau) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
