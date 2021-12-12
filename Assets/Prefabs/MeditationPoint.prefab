@@ -153,3 +153,6 @@ MonoBehaviour:
   isEntered: 0
   MeditationMat: {fileID: 4329016013473688555}
   Player: {fileID: 0}
+  uiTextMessage: {fileID: 0}
+  onText: {fileID: 0}
+  offText: {fileID: 0}

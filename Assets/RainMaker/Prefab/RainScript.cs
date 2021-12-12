@@ -14,7 +14,7 @@ namespace DigitalRuby.RainMaker
         public float RainHeight = 25.0f;
 
         [Tooltip("How far the rain particle system is ahead of the player")]
-        public float RainForwardOffset = -7.0f;
+        public float RainForwardOffset = -14.0f;
 
         [Tooltip("The top y value of the mist particles")]
         public float RainMistHeight = 3.0f;
