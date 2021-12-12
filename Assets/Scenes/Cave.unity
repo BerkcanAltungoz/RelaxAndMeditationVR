@@ -459,17 +459,17 @@ PrefabInstance:
     - target: {fileID: 4329016013473688559, guid: 90371ec4a544ba149848c145514193fa,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 312.454
+      value: 311.72
       objectReference: {fileID: 0}
     - target: {fileID: 4329016013473688559, guid: 90371ec4a544ba149848c145514193fa,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.668
+      value: 0.66
       objectReference: {fileID: 0}
     - target: {fileID: 4329016013473688559, guid: 90371ec4a544ba149848c145514193fa,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 310.007
+      value: 310.3
       objectReference: {fileID: 0}
     - target: {fileID: 4329016013473688559, guid: 90371ec4a544ba149848c145514193fa,
         type: 3}
@@ -539,7 +539,7 @@ PrefabInstance:
     - target: {fileID: 8529277943642359780, guid: 54ab9950474f34243bb0ed8de75a6912,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8529277943642359780, guid: 54ab9950474f34243bb0ed8de75a6912,
         type: 3}
@@ -689,7 +689,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 394979380}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.32, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.015, y: 0.015, z: 1}
   m_Children: []
   m_Father: {fileID: 884251141}
@@ -1005,7 +1005,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 884251140}
   m_LocalRotation: {x: -0, y: -0.58782196, z: -0, w: 0.80899036}
-  m_LocalPosition: {x: 258.86, y: 1.88, z: 299.48}
+  m_LocalPosition: {x: 267.44, y: 2.39, z: 296.69}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 394979381}
@@ -1153,8 +1153,12 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
+      propertyPath: EnableWind
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
       propertyPath: RainIntensity
-      value: 0.075
+      value: 0.125
       objectReference: {fileID: 0}
     - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
       propertyPath: RainSoundHeavy
@@ -1168,6 +1172,22 @@ PrefabInstance:
       propertyPath: RainSoundMedium
       value: 
       objectReference: {fileID: 8300000, guid: 3359e9d10af08ca46ae396298dbd1ed9, type: 3}
+    - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
+      propertyPath: WindSpeedRange.x
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
+      propertyPath: WindSpeedRange.y
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
+      propertyPath: WindSpeedRange.z
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
+      propertyPath: WindChangeInterval.y
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 11437536, guid: 69b40ef7ee16c834c844b3fa26e0fdda, type: 3}
       propertyPath: WindSoundVolumeModifier
       value: 0.1
@@ -1622,7 +1642,7 @@ PrefabInstance:
     - target: {fileID: 6465235256429514960, guid: 0186b63fdfd9e134a886ab78ddf96182,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6465235256429514960, guid: 0186b63fdfd9e134a886ab78ddf96182,
         type: 3}
