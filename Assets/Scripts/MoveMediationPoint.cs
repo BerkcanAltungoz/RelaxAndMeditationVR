@@ -12,7 +12,7 @@ public class MoveMediationPoint : MonoBehaviour
     public GameObject MeditationMat;
     public GameObject Player;
     public GameObject uiTextMessage;
-    bool isSitting = false;
+    public bool isSitting = false;
     Color originalMatColor;
     Renderer matRenderer;
     public Text onText;
