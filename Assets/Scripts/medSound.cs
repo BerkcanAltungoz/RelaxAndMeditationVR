@@ -6,13 +6,13 @@ public class medSound : MonoBehaviour
 {
     bool flag = true;
     bool isSit;
-    private MoveMediationPoint movemeditationpoint;
+    public MoveMediationPoint movemeditationpoint;
     public AudioSource playSound;
     
     // Start is called before the first frame update
     void Start()
     {
-        movemeditationpoint = GetComponent<MoveMediationPoint>();
+      //  movemeditationpoint = this.GetComponent<MoveMediationPoint>();
     }
 
     // Update is called once per frame
